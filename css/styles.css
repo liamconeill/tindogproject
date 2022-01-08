@@ -147,6 +147,10 @@
   color: #ef8172;
 }
 
+.sorry-header {
+  margin: 0 20%;
+}
+
 /* General Section */
 .colored-section {
   background-color: #ff4c68;
